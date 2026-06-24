@@ -1,0 +1,6 @@
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\bin\Debug\BibliotecaVentas.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\bin\Debug\BibliotecaVentas.pdb
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\obj\Debug\BibliotecaVentas.csproj.AssemblyReference.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\obj\Debug\BibliotecaVentas.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\obj\Debug\BibliotecaVentas.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaVentas\obj\Debug\BibliotecaVentas.pdb

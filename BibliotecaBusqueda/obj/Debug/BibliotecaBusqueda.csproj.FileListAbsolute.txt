@@ -1,0 +1,6 @@
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\bin\Debug\BibliotecaBusqueda.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\bin\Debug\BibliotecaBusqueda.pdb
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\obj\Debug\BibliotecaBusqueda.csproj.AssemblyReference.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\obj\Debug\BibliotecaBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\obj\Debug\BibliotecaBusqueda.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaBusqueda\obj\Debug\BibliotecaBusqueda.pdb

@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Downloads\\Proyecto Final\\Sistema_de_Inventario_Carpinteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E75993-7869-4417-9FF8-B52AD67BCF16}|Sistema_de_Inventario_Carpinteria.csproj|c:\\users\\w10\\downloads\\proyecto final\\sistema_de_inventario_carpinteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E75993-7869-4417-9FF8-B52AD67BCF16}|Sistema_de_Inventario_Carpinteria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A698E0-51DA-44D4-A468-DFAECBB5CD4B}|..\\BibliotecaInventario\\BibliotecaInventario.csproj|c:\\users\\w10\\downloads\\proyecto final\\bibliotecainventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C539A78-B33E-4E87-9AC1-B32D0FC8EDD2}|..\\BibliotecaBusqueda\\BibliotecaBusqueda.csproj|c:\\users\\w10\\downloads\\proyecto final\\bibliotecabusqueda\\busqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052ACBF-DE5C-4B03-A384-25D04FC72CF0}|..\\BibliotecaVentas\\BibliotecaVentas.csproj|c:\\users\\w10\\downloads\\proyecto final\\bibliotecaventas\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96088C38-81A6-4522-98A3-6FC18C669CC9}|..\\BibliotecaReportes\\BibliotecaReportes.csproj|c:\\users\\w10\\downloads\\proyecto final\\bibliotecareportes\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Proyecto Final\\Sistema_de_Inventario_Carpinteria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Proyecto Final\\Sistema_de_Inventario_Carpinteria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwMEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:49:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaReportes\\Reportes.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaReportes\\Reportes.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaReportes\\Reportes.cs",
+              "RelativeToolTip": "..\\BibliotecaReportes\\Reportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:58:23.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaVentas\\Ventas.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaVentas\\Ventas.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaVentas\\Ventas.cs",
+              "RelativeToolTip": "..\\BibliotecaVentas\\Ventas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:57:45.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaInventario\\Inventario.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaInventario\\Inventario.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaInventario\\Inventario.cs",
+              "RelativeToolTip": "..\\BibliotecaInventario\\Inventario.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:56:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Busqueda.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaBusqueda\\Busqueda.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaBusqueda\\Busqueda.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Proyecto Final\\BibliotecaBusqueda\\Busqueda.cs",
+              "RelativeToolTip": "..\\BibliotecaBusqueda\\Busqueda.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:57:03.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

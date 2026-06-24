@@ -1,0 +1,6 @@
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\bin\Debug\BibliotecaInventario.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\bin\Debug\BibliotecaInventario.pdb
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\obj\Debug\BibliotecaInventario.csproj.AssemblyReference.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\obj\Debug\BibliotecaInventario.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\obj\Debug\BibliotecaInventario.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaInventario\obj\Debug\BibliotecaInventario.pdb

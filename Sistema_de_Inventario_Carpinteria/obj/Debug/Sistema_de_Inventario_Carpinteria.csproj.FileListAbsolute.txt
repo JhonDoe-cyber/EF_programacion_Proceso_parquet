@@ -1,0 +1,16 @@
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\obj\Debug\Sistema_de_Inventario_Carpinteria.csproj.AssemblyReference.cache
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\obj\Debug\Sistema_de_Inventario_Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\Sistema_de_Inventario_Carpinteria.exe.config
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\Sistema_de_Inventario_Carpinteria.exe
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\Sistema_de_Inventario_Carpinteria.pdb
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaBusqueda.dll
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaInventario.dll
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaReportes.dll
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaVentas.dll
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaBusqueda.pdb
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaInventario.pdb
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaReportes.pdb
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\bin\Debug\BibliotecaVentas.pdb
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\obj\Debug\Sistema_.21D3C2B2.Up2Date
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\obj\Debug\Sistema_de_Inventario_Carpinteria.exe
+C:\Users\W10\Downloads\Proyecto Final\Sistema_de_Inventario_Carpinteria\obj\Debug\Sistema_de_Inventario_Carpinteria.pdb

@@ -1,0 +1,22 @@
+PROD001;Tablon de Caoba 2x10;45;65;15;Pasillo A
+PROD002;Plancha Triplay 4mm;18.5;26;40;Estante 1
+PROD003;Cola Sintetica 1Gal;22;32;12;Zona Liquidos
+PROD004;Tornillo Madera 1.5pulg;0.05;0.15;500;Caja Tornillos
+PROD005;Clavo con Cabeza 2pulg;0.08;0.2;800;Caja Clavos
+PROD006;Lija para Madera #80;1.2;2;60;Cajon 3
+PROD007;Lija para Madera #120;1.2;2;75;Cajon 3
+PROD008;Barniz Marino Transp.;35;48;10;Estante 4
+PROD009;Tinte para Madera Nogal;12.5;18;15;Estante 4
+PROD010;Bisagra de Cangrejo 35mm;2.5;4.5;100;Cajon 1
+PROD011;Corredera Telescopica 40cm;8;13.5;30;Pasillo B
+PROD012;Tirador de Acero Inox;4.5;7.5;50;Cajon 2
+PROD013;Fondo Blanco Base 1Gl;28;39;8;Estante 5
+PROD014;Disolvente Thinner 1Lt;7.5;11;20;Zona Liquidos
+PROD015;Broca para Madera 3/8;6;9.5;14;Estante Herramientas
+PROD016;Formon para Carpintero;14;22;6;Estante Herramientas
+PROD017;Martillo de Uña Estandar;18;27;5;Estante Herramientas
+PROD018;Flexometro 5 Metros;11;16.5;12;Vitrina
+PROD019;Escuadra de Alum. 12pulg;15;23;7;Vitrina
+PROD020;Masilla para Madera Pino;5.5;8.5;18;Cajon 4
+PROD021;PINTURAS;25;45;60;H
+PROD022;Destornillador de punta plana;5;17;430;H

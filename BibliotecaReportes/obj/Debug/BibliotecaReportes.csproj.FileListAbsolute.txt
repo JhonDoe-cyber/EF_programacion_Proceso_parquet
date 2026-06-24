@@ -1,0 +1,6 @@
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\bin\Debug\BibliotecaReportes.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\bin\Debug\BibliotecaReportes.pdb
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\obj\Debug\BibliotecaReportes.csproj.AssemblyReference.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\obj\Debug\BibliotecaReportes.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\obj\Debug\BibliotecaReportes.dll
+C:\Users\W10\Downloads\Proyecto Final\BibliotecaReportes\obj\Debug\BibliotecaReportes.pdb
